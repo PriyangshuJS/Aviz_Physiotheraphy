@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "424787444245",
+    "project_id": "avizhospital",
+    "storage_bucket": "avizhospital.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:424787444245:android:e16e6761251b4456c5441c",
+        "android_client_info": {
+          "package_name": "com.example.avizhealthcarehospital"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBX19zzPa8zhxiRf7s_Uz1GGE0nc0BGqQ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:424787444245:android:f6a0f2f0869776bec5441c",
+        "android_client_info": {
+          "package_name": "com.example.usersidefirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBX19zzPa8zhxiRf7s_Uz1GGE0nc0BGqQ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
